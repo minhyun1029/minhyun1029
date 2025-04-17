@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MH%GitHub&fontSize=90)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyun1029&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hancoal)
-
+## 🌱 Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bropark)](https://solved.ac/bropark/)
 ## 🛠 Tech Stacks
 | 분야        | 사용 기술            |
 |-------------|----------------------|
