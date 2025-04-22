@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyun1029&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False)
 ## 🌱 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bropark)](https://solved.ac/bropark/)
- <img src="http://mazandi.herokuapp.com/api?handle={bropark}&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=bropark&theme=warm"/>
 
 ## 🛠 Tech Stacks
 | 분야        | 사용 기술            |
