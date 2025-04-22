@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MH%GitHub&fontSize=90)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyun1029&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hancoal)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyun1029&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False)
 ## 🌱 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bropark)](https://solved.ac/bropark/)
+ <img src="http://mazandi.herokuapp.com/api?handle={bropark}&theme=warm"/>
+
 ## 🛠 Tech Stacks
 | 분야        | 사용 기술            |
 |-------------|----------------------|
@@ -19,5 +21,4 @@
 
 
 ## 📫 Contact Me
-- **Email**: [Email](minhyun102947@gmail.com)
-- **GitHub**: [Profile](https://github.com/minhyun1029)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minhyun102947@gmail.com)](mailto:minhyun102947@gmail.com)
