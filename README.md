@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyun1029&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False)
 ## 🌱 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bropark)](https://solved.ac/bropark/)
- <img src="http://mazandi.herokuapp.com/api?handle=bropark&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=bropark&theme=dark"/>
 
 ## 🛠 Tech Stacks
 | 분야        | 사용 기술            |
@@ -18,7 +18,9 @@
 - [Machuriall](https://github.com/minhyun1029/PROJECT_Machuriall-) - 데이터베이스 프로젝트
 - [QR Validity Door Opening and Closing Program](https://github.com/minhyun1029/RasberryPi-project) - 라즈베리파이 프로젝트
 - [FALL DETECTION MONITORING SYSTEM FOR CARE FACILITY](https://github.com/minhyun1029/Capstone_Design_2024) - 캡스톤 프로젝트(졸업작품)
+- [JAVA Study](https://github.com/minhyun1029/Algorithm) - 코딩 테스트 준비(자바)
 
 
 ## 📫 Contact Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minhyun102947@gmail.com)](mailto:minhyun102947@gmail.com)
+<a href="https://www.instagram.com/mhxmh_ismh?igsh=MXY1ZTBoemg4NW1mNA%3D%3D&utm_source=qr" target="mhxmh_ismh"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
