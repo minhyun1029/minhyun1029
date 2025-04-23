@@ -22,5 +22,14 @@
 
 
 ## 📫 Contact Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minhyun102947@gmail.com)](mailto:minhyun102947@gmail.com)
-<a href="https://www.instagram.com/mhxmh_ismh?igsh=MXY1ZTBoemg4NW1mNA%3D%3D&utm_source=qr" target="mhxmh_ismh"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
+<div style="display: flex; align-items: center; gap: 8px;">
+  <a href="mailto:minhyun102947@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.instagram.com/mhxmh_ismh?igsh=MXY1ZTBoemg4NW1mNA%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F" alt="Instagram Badge" style="height: 20px;"/>
+  </a>
+  <a href="https://mhxmh-mh.tistory.com/" target="_blank">
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=kakao" alt="Tistory Badge" style="height: 20px;"/>
+  </a>
+</div>
